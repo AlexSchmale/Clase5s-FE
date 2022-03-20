@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@700&family=Roboto+Mono:wght@100&family=Roboto:wght@100;400;500;700&display=swap');
+*{
+    max-width: 1025px;
+    font-family: "Roboto";
+}
+li{
+    list-style: none;
+}
+p{
+    font-family:"Roboto";
+    font-size: 15px;
+}
+article p{
+    color: #3C2313;
+    font-weight: 500;
+}
+.grandes-ofertas{
+    background-color:#222222;
+    color: #F3F3F3;
+    font-weight: 400px;
+}
+.lista-nav{
+    background-color: orange;
+    color: #F3F3F3;
+}
+.lista-nav ul{
+    text-align: right;
+}
+.banner-bienvenida{
+    background-image: url("../img/bowl.png");
+    height: 409px;
+    text-align: right;
+    width: 1025px;
+}
+.contenedor-blanco p{
+    color: #3C2313;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.contenedor-naranja {
+    color: #FFFFFF;
+    text-align: right;
+    font-weight: 400;
+}
+.productos{
+    text-align: center;
+}
+.lista-productos{
+    color: #666666;
+    font-family: "Roboto";
+}
+.titulo{
+    color: #3C2313;
+    font-family: "roboto";
+    font-size: 40px;
+    font-weight: 700;
+}
+.precio{
+    color: #F0A83E;
+    font-size: 15px;
+    font-weight: 500;
+}
+.pie-naranja{
+    background-color: #F0A83E;
+    color: white;
+    font-size: 2opx;
+    font-weight: 700;
+    height: 60px;
+    width: 1024px;
+}
+.pie-marron{
+    background-color: #3C2313;
+    color: #FFFFFF;
+    font-weight: 700;
+    height: 284px;
+    width: 1024px;
+}
+.especificacion{
+    color:#8A8787;
+    font-size: 10px;
+}
